@@ -1,0 +1,37 @@
+body{
+    font-family: 'Bebas Neue', 'Open Sans', 'Lato', 'Roboto', 'Arial';
+    margin: 0;
+    
+}
+#logo {
+    width: 300px;
+    margin-left: 90px;
+}
+
+.main_block {
+    margin-top: 90px;
+    font-size: 23px;
+    margin-left: 700px;
+}
+.all_buttons {
+     width: 500px;
+    height: 80px;
+    font-size: 30px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+
+}
+.next_button {
+    width: 510px;
+    height: 100px;
+    font-size: 30px;
+    background-color: rgb(230, 52, 52);;
+    color: white;
+    font-weight: bold;
+    border: none;
+    margin-top: 15px;
+    border-radius: 5px;
+}
+.button_login {
+    
+}
