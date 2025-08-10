@@ -10,7 +10,7 @@ body{
 
 .main_block {
     margin-top: 90px;
-    font-size: 23px;
+    font-size: 20px;
     margin-left: 700px;
 }
 .all_buttons {
@@ -32,6 +32,16 @@ body{
     margin-top: 15px;
     border-radius: 5px;
 }
-.button_login {
-    
+.sigin_button {
+    width: 80px;
+    height: 40px;
+    background-color: transparent;
+    color: black;
+    font-weight: bold;
+    font-size: large;
+    border: none;
+    margin: 1px;
+    margin-left: 0px;
+    margin-left: 1000px;
+
 }
