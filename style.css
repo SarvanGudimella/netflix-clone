@@ -47,12 +47,13 @@ body{
 }
 
 #lang_button{
-    margin-bottom: 120px;
+    margin-bottom: 100px;
     width: 100px;
-    height: 40px;
+    height: 35px;
     margin-left: 800px;
-    border: none;
-    background-color: rgb(230, 52, 52);
+    border-color: white;
+    border-style: outset;
+    background-color: transparent;
     font-size: medium;
     font-weight: bold;
     color: white;
