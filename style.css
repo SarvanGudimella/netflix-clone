@@ -57,7 +57,7 @@ body{
     color: white;
     padding: 2px;
     position: relative;
-    bottom: 50px;
+    bottom: 45px;
 
 }
 .sigin_button {
@@ -70,5 +70,5 @@ body{
     font-weight: bold;
     color: white;
     position: relative;
-    bottom: 50px;
+    bottom: 45px;
 }
