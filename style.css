@@ -17,8 +17,10 @@ body{
 }
 #data1 {
     font-size: 20px;
+    margin-top: 9px;
 }
 #data2 {
+    margin-top: 25px;
     font-size: 18px;
     font-weight: normal;
 }
