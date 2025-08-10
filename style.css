@@ -59,18 +59,19 @@ body{
     color: white;
     padding: 2px;
     position: relative;
-    bottom: 40px;
+    bottom: 50px;
 
 }
 .sigin_button {
-    margin-bottom: 120px;
-    width: 80px;
-    height: 40px;
+    width: 75px;
+    height: 35px;
+    margin-top: 70px;
+    border-radius: 5px;
     border: none;
     background-color: rgb(229, 9, 20);
     font-size: medium;
     font-weight: bold;
     color: white;
     position: relative;
-    bottom: 40px;
+    bottom: 50px;
 }
